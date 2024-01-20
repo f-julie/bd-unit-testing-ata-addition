@@ -1,2 +1,0 @@
-com/amazon/ata/unittesting/AtaAddition.java
- com.amazon.ata.unittesting.AtaAddition
