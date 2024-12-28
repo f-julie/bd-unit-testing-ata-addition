@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.amazon.ata.unittesting.AtaAdditionTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2024-12-28T19:03:48" hostname="DESKTOP-URGQT26" time="0.151">
+  <properties/>
+  <testcase name="add_sumOutOfBounds_throwsArithmeticException()" classname="com.amazon.ata.unittesting.AtaAdditionTest" time="0.069"/>
+  <testcase name="add_singleInteger_returnsTheInteger()" classname="com.amazon.ata.unittesting.AtaAdditionTest" time="0.015"/>
+  <testcase name="add_emptyArray_returnsZero()" classname="com.amazon.ata.unittesting.AtaAdditionTest" time="0.004"/>
+  <testcase name="add_nullArray_returnsZero()" classname="com.amazon.ata.unittesting.AtaAdditionTest" time="0.011"/>
+  <testcase name="add_twoIntegers_returnsTheirSum()" classname="com.amazon.ata.unittesting.AtaAdditionTest" time="0.007"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
